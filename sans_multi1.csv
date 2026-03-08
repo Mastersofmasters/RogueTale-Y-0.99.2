@@ -1,6 +1,6 @@
 0,CombatZoneResize,133,251,508,391,TLResume,,
 0,HeartTeleport,320,304,,,,,
-0,HeartMode,1,,,,,,
+0,HeartMode,6,,,,,,
 0,TLPause,,,,,,,
 0,SET,Loop,5,,,,,
 0,:RndAttack,,,,,,,
@@ -40,7 +40,7 @@
 1.1,JMPABS,RndAttack,,,,,,
 0,:Attack2,,,,,,,
 0,CombatZoneResizeInstant,171,276,476,391,,,
-0,HeartMode,1,,,,,,
+0,HeartMode,6,,,,,,
 0,HeartTeleport,320,376,,,,,
 0,SET,Total,0,,,,,
 0,SET,Loop2,0,,,,,
@@ -108,6 +108,7 @@
 0.828,GasterBlaster,2,550,0,550,340,90,0.207,0.414
 0.828,MercyXY,666,666	
 0.5,EndAttack,,,,,,,
+
 
 
 
